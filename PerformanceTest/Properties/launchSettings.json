@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "PerformanceTest": {
+      "commandName": "Project"
+    }
+  }
+}
